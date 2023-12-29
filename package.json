@@ -29,7 +29,7 @@
     "@semantic-release/commit-analyzer": "^9.0.2",
     "@semantic-release/error": "^3.0.0",
     "@semantic-release/github": "^8.0.0",
-    "@semantic-release/npm": "^9.0.0",
+    "@semantic-release/npm": "^11.0.0",
     "@semantic-release/release-notes-generator": "^10.0.0",
     "aggregate-error": "^4.0.1",
     "cosmiconfig": "^8.0.0",
@@ -50,7 +50,7 @@
     "p-reduce": "^3.0.0",
     "read-pkg-up": "^9.1.0",
     "resolve-from": "^5.0.0",
-    "semver": "^7.3.2",
+    "semver": "^7.5.2",
     "semver-diff": "^4.0.0",
     "signale": "^1.2.1",
     "yargs": "^17.5.1"
